@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'WebNastaliq';
+    src: url('https://cdn.rawgit.com/ehsan-github/font-IranNastaliq/blob/master/WebFonts/IranNastaliq-Web.woff2') format('woff2'),
+    url('https://cdn.rawgit.com/ehsan-github/font-IranNastaliq/blob/master/WebFonts/IranNastaliq-Web.woff') format('woff'),
+         url('https://cdn.rawgit.com/ehsan-github/font-IranNastaliq/blob/master/WebFonts/IranNastaliq-Web.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+
+
+}
